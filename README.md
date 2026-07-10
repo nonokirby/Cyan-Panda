@@ -1,4 +1,4 @@
-# 🦝 Cyan Panda Expansion Gateway
+#Cyan Panda Expansion Gateway
 
 The open-source hybrid can bus gateway !
 
