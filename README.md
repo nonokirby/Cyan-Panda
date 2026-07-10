@@ -1,8 +1,7 @@
-# 🦝 raccoon
-The open-source car bus analyzer !
+# 🦝 Cyan Panda Expansion Gateway
 
-A raccoon is a trash [panda](https://comma.ai/shop/products/panda), literally.
+The open-source hybrid can bus gateway !
 
-![board](https://user-images.githubusercontent.com/26976111/119512947-128cb780-bd74-11eb-8936-8a6eb49cb603.png)
+Based heabily on the Racoon '[trash panda](https://github.com/mickabrig7/raccoon)'
 
-Instructions coming **soon™**
+more info coming **soon™**
