@@ -9529,16 +9529,6 @@
 		)
 		(uuid "9c89062f-32b1-4544-91de-01fc27edfea7")
 	)
-	(wire
-		(pts
-			(xy 154.94 97.79) (xy 158.75 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9dc7230b-1262-4dce-826f-63264d1f01b6")
-	)
 	(polyline
 		(pts
 			(xy 146.05 193.04) (xy 146.05 146.05)
@@ -11540,7 +11530,7 @@
 		(uuid "f0f08f86-0a21-47a4-9492-00f828d5b49d")
 	)
 	(label "~{CAN1_EN}"
-		(at 154.94 97.79 180)
+		(at 154.94 115.57 180)
 		(effects
 			(font
 				(size 1.27 1.27)

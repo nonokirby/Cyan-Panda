@@ -71,12 +71,7 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [
-        [
-          "clearance|149308276|95927336|4eff1ca9-9928-43cf-b2f6-ca9f50de153a|5879ef21-559e-4e9f-9482-603cb4d08d19",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
