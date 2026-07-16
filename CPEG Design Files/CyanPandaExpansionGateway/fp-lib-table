@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "KiCad") (type "KiCad") (uri "C:/Users/UCUser/Documents/GitHub/Cyan-Panda/CPEG Design Files/Library/LIB_NCV7356D1R2G/NCV7356D1R2G/KiCad") (options "") (descr ""))
+	(lib (name "Library") (type "KiCad") (uri "${KIPRJMOD}/Library.pretty") (options "") (descr ""))
+	(lib (name "CyanPandaLibrary") (type "KiCad") (uri "${KIPRJMOD}/CyanPandaLibrary.pretty") (options "") (descr ""))
+)
